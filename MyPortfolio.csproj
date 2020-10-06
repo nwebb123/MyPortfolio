@@ -67,10 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="style.css" />
+    <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\mycss\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\favicon.png" />
-    <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
