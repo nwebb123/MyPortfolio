@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color: linen; 
 }
 
 a {
@@ -902,8 +903,9 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  width: 100%;
-  background: #fff;
+    width: 100%;
+    background-color: linen;
+    
 }
 
 .contact .info i {
@@ -1114,11 +1116,10 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
-  color: #45505b;
-  font-size: 14px;
-  text-align: center;
-  padding: 30px 0;
+    background-color: linen;
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0;
 }
 
 #footer h3 {
