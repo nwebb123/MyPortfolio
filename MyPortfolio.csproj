@@ -73,9 +73,9 @@
     <Content Include="assets\img\Challenges\sunset.png" />
     <Content Include="assets\img\Challenges\tacocatsized.png" />
     <Content Include="assets\img\favicon.png" />
+    <Content Include="assets\img\headshot_11-22-20.jpg" />
     <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\mycss\style.css" />
-    <Content Include="assets\img\profile-img.jpg" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\vendor\aos\aos.css" />
     <Content Include="assets\vendor\aos\aos.js" />
