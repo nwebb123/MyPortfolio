@@ -76,6 +76,7 @@
     <Content Include="assets\img\ArgusG.png" />
     <Content Include="assets\img\headshot_11-22-20.jpg" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\spider-web.png" />
     <Content Include="assets\mycss\style.css" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\vendor\aos\aos.css" />
