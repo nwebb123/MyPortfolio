@@ -154,6 +154,7 @@
     <Content Include="assets\vendor\owl.carousel\LICENSE" />
     <Content Include="assets\vendor\owl.carousel\README.md" />
     <Content Include="assets\vendor\typed.js\typed.min.js.map" />
+    <Content Include="assets\img\CF_Resume_2020.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
