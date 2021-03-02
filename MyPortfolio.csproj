@@ -113,8 +113,6 @@
     <Content Include="assets\vendor\owl.carousel\assets\owl.video.play.png" />
     <Content Include="assets\vendor\owl.carousel\owl.carousel.js" />
     <Content Include="assets\vendor\owl.carousel\owl.carousel.min.js" />
-    <Content Include="assets\vendor\php-email-form\changelog.txt" />
-    <Content Include="assets\vendor\php-email-form\validate.js" />
     <Content Include="assets\vendor\typed.js\typed.js" />
     <Content Include="assets\vendor\typed.js\typed.min.js" />
     <Content Include="assets\vendor\venobox\venobox.css" />
@@ -123,8 +121,6 @@
     <Content Include="assets\vendor\venobox\venobox.min.js" />
     <Content Include="assets\vendor\waypoints\jquery.waypoints.min.js" />
     <Content Include="changelog.txt" />
-    <Content Include="forms\contact.php" />
-    <Content Include="forms\Readme.txt" />
     <Content Include="index.html" />
     <Content Include="portfolio-details.html" />
     <Content Include="Readme.txt" />
