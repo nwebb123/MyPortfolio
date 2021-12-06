@@ -72,11 +72,15 @@
     <Content Include="assets\img\Challenges\jsimg.png" />
     <Content Include="assets\img\Challenges\sunset.png" />
     <Content Include="assets\img\Challenges\tacocatsized.png" />
+    <Content Include="assets\img\csharp-dotnet-logo.png" />
+    <Content Include="assets\img\dotnet-logo.jpeg" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\ArgusG.png" />
+    <Content Include="assets\img\git-github-logo.png" />
     <Content Include="assets\img\goat-logo.png" />
     <Content Include="assets\img\headshot_11-22-20.jpg" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\html5-logo.png" />
     <Content Include="assets\img\spider-web.png" />
     <Content Include="assets\img\SweetsandTreats.png" />
     <Content Include="assets\mycss\style.css" />
