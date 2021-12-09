@@ -72,8 +72,8 @@
     <Content Include="assets\img\Challenges\jsimg.png" />
     <Content Include="assets\img\Challenges\sunset.png" />
     <Content Include="assets\img\Challenges\tacocatsized.png" />
-    <Content Include="assets\img\csharp-dotnet-logo.png" />
     <Content Include="assets\img\dotnet-logo.jpeg" />
+    <Content Include="assets\img\dotnetcsharp_logo.png" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\ArgusG.png" />
     <Content Include="assets\img\git-github-logo.png" />
